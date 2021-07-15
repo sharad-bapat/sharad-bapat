@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sharad-bapat
-- 👀 I’m interested in Open Source, Python, Javascript, AI, ML
+- 👀 I’m interested in Open Source, Python, JavaScript, AI, ML
 - 🌱 I’m always learning
 - 💞️ I’m looking to collaborate on exciting open source project and contribute meaningfully.
 - 📫 Follow me on twitter - > https://twitter.com/sharad_bapat 
